@@ -1,0 +1,120 @@
+
+
+body {
+  background-image:url(img/fondo2.jpeg);
+}
+
+#cardd{
+  background-color: rgb(207, 203, 202, .88);
+  border-radius: 30px;
+  height: 540px;
+  width: 380px;
+ 
+  margin-top: 3%;
+  margin-left: 65%;
+
+
+}
+
+#contenido{
+  height: 500px;
+  width: 300px;
+font-size: 14px;
+font-family: "Segoe UI", Arial, sans-serif;
+ margin-left: 9%;
+margin-top: 5%;
+
+}
+
+#contra1{
+ 
+  border-radius: 10px;
+  border: 0;
+  height: 30px;
+
+
+
+}
+
+#contra2{
+ height: 30px;
+  border-radius: 10px;
+    border: 0;
+
+}
+
+label{
+  text-align: right;
+}
+
+
+#cardp{
+  background-color: rgb(207, 203, 202, .85);
+  font-size: 50;
+  border-radius: 30px;
+  height: 60px;
+  width: 500px;
+  text-align: center;
+  margin-top: -25%;
+  margin-left: 15%;
+
+
+}
+
+button {
+  border-radius: 12px;
+  color: white;
+  padding: 10px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+#b1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+#b1:hover {
+  background-color: #555555;
+  color: white;
+}
+#b2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+#b2:hover {
+  background-color: #555555;
+  color: white;
+}
+
+#d8{
+color: green;
+}
+#ma{
+color: green;
+}
+#mn{
+  color: green;
+
+}
+#num{
+  color: green;
+
+}
+
+#result{
+  font-size: 40px;
+}
+
+img{
+  width: 90px;
+  height: 95px;
+  border-radius: 50px;
+ 
+  margin-left: 35%;
+}
